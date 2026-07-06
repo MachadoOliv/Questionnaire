@@ -37,7 +37,9 @@
   color:#000000;
   font-weight: bold;
   display: flex;
-  width: 87vh;
+  width: 100%;
+  max-width: 250px;
+  margin:30px auto 0;
   align-items: center;
   justify-content: center;
   text-align: center;
@@ -45,8 +47,10 @@
   padding-top: 7px;
   padding-bottom: 8px;
   box-shadow: none;
+  padding:10px 24px;
   outline: none;
   border: none;
+  cursor:pointer;
 }
 
 .quiz-item{
