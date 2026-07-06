@@ -37,10 +37,9 @@
     color: #000000;
     font-weight: bold;
     display: flex;
-    width: 100%;
-    max-width: 250px; 
+    width: 250px; 
     margin: 30px auto 0; 
-    
+    align-self: center;
     align-items: center;
     justify-content: center;
     text-align: center;
